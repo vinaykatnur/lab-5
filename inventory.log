@@ -1,0 +1,5 @@
+2025-10-30 06:11:25,502 - INFO - Added 10 of apple
+2025-10-30 06:11:25,502 - INFO - Added 2 of banana
+2025-10-30 06:11:25,502 - ERROR - Invalid input in addItem: invalid literal for int() with base 10: 'ten'
+2025-10-30 06:11:25,502 - INFO - Removed 3 of apple
+2025-10-30 06:11:25,502 - WARNING - Attempted to remove non-existent item: orange
